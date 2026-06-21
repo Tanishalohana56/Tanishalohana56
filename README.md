@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanisha Lohana</h1>
+<h1 align="center">Hi 👋, I'm Tanisha </h1>
 <h3 align="center">Passionate web developer | A girl building clean and efficient code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishalohana56&label=Profile%20views&color=0e75b6&style=flat" alt="tanishalohana56" /> </p>
