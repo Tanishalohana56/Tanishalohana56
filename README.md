@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tanisha</h1>
+<h1 align="center">👩‍💻 Tanisha</h1>
 
 <h3 align="center">
-💻 Front-End Developer <br>
-📊 Data Science Enthusiast <br>
-🤖 AI Learner
+Front-End Developer • Data Science Enthusiast • AI Learner 🚀
 </h3>
 
 <p align="center">
