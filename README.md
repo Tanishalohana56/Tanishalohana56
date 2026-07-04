@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-💻 Front-End Developer | 📊 Data Science Enthusiast | 🤖 AI Learner
+💻 Full Stack Developer | 📊 Data Science Enthusiast | 🤖 AI Learner
 </h3>
 
 <p align="center">
