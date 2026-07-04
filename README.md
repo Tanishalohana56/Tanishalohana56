@@ -1,13 +1,14 @@
-<h1 align="center">👩‍💻 Tanisha</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3000&pause=100000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanisha" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">
-Front-End Developer • Data Science Enthusiast • AI Learner 🚀
+💻 Front-End Developer | 📊 Data Science Enthusiast | 🤖 AI Learner
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tanishalohana56&label=Profile%20Views&color=8A2BE2&style=flat" alt="Profile Views" />
 </p>
-
 # 🔥 About Me
 
 - 🔭 I’m currently working on **Web Development, Data Science, and AI-based Projects**
