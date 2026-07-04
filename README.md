@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tanisha</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Front-End+Developer;Data+Science+Enthusiast;AI+Learner;Building+Modern+Web+Applications;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Tanisha
+</h1>
 
 <h3 align="center">
-💻 Front-End Developer | 📊 Data Science Enthusiast | 🤖 AI Learner
+💻 Front-End Developer <br>
+📊 Data Science Enthusiast <br>
+🤖 AI Learner
 </h3>
 
 <p align="center">
